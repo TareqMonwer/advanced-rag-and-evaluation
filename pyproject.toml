@@ -5,5 +5,12 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
+    "ipykernel>=7.1.0",
     "llama-index>=0.14.8",
+    "llama-index-embeddings-huggingface>=0.6.1",
+    "openai>=2.8.1",
+    "python-dotenv>=1.2.1",
+    "trulens>=2.5.1",
+    "trulens-apps-llamaindex>=2.5.1",
+    "trulens-eval>=2.5.1",
 ]
