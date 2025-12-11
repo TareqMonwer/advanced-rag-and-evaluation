@@ -1,0 +1,10 @@
+What are the complete steps required to install and run the Django School Management system for the first time, including environment setup?
+How do I set up Celery with Redis on a Windows machine for this project?
+What credentials do I need to configure in the .env file, and where can I find an example template?
+What payment gateway does this system use, and how do I set it up for testing?
+What test credit card information should I use for testing the admission payment process?
+In what order should I load the fixture files, and what is the correct command to load the teacher fixtures?
+What types of initial data are available through fixtures in this project?
+What are the differences between online and offline admission processes in this system?
+What administrative features are available for managing academic structure (departments, subjects, teachers)?
+After running the Django development server, what additional command must be executed in a separate terminal, and why is it necessary?
